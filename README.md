@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=no">
-  <title>Round | Голосовые сообщения</title>
+  <title>Round</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
     body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif; background: #0A0B0E; display: flex; justify-content: center; align-items: center; min-height: 100vh; margin: 0; padding: 12px; }
